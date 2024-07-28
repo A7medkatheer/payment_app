@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:payment_app/core/widgets/custom_button.dart';
 import 'package:payment_app/features/checkout/presentation/views/widgets/cart_info_item.dart';

@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:payment_app/core/widgets/cutom_app_bar.dart';
 import 'package:payment_app/features/checkout/presentation/views/widgets/payment_details_view_body.dart';

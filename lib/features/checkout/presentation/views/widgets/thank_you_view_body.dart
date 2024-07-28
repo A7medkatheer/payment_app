@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:payment_app/features/checkout/presentation/views/widgets/custom_check_icon.dart';
 import 'package:payment_app/features/checkout/presentation/views/widgets/custom_dashed_line.dart';
